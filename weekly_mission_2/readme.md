@@ -14,3 +14,9 @@ Aquí se encontrarán las prácticas de la segunda semana.
     - Find & FindIndex
     - Some
     - Sort
+- Clases y Objetos
+    - Intanciar objetos
+    - Atributos default
+    - Get and Set
+    - Herencia
+    - Override
