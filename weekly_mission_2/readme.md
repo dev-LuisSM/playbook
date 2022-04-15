@@ -21,3 +21,4 @@ Aquí se encontrarán las prácticas de la segunda semana.
     - Herencia
     - Override
 - Modularización de Clases
+- Testing con Jest
