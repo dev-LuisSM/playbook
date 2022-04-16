@@ -1,7 +1,4 @@
 // Facebook: Objeto User and Biography
-
-const { formatWithOptions } = require("util")
-
 const user = {
   name: 'Luis Silva Martin',
   bio: 'Just a FrontEnd dev 💻',
