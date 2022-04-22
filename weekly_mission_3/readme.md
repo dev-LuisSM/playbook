@@ -7,6 +7,6 @@ Aquí se encontrarán las prácticas de cada semana:
 | ------------- |:-------------:| :-------------:| -----:|
 |`WM3_my_launchx_app`| Creación de clases y testing |1|[Soy el repo](https://github.com/dev-LuisSM/WM3_my_launchx_app)|
 |`WM3_Test_Driven_Development`| Método de trabajo a través de pruebas unitarias |2|[Soy el repo](https://github.com/dev-LuisSM/WM3_Test_Driven_Development)|
-|`---`| --- |---|[Aún nada por aquí]()|
+|`WM3_Twitter_Model_Services_Views`| Proyecto: Twitter | 3, 4, 5 |[Soy el repo](https://github.com/dev-LuisSM/WM3_Twitter_Model_Services_Views)|
 |`---`| --- |---|[Aún nada por aquí]()|
 |`---`| --- |---|[Aún nada por aquí]()|
