@@ -9,4 +9,4 @@ Aquí se encontrarán las prácticas de cada semana:
 |`WM3_Test_Driven_Development`| Método de trabajo a través de pruebas unitarias |2|[Soy el repo](https://github.com/dev-LuisSM/WM3_Test_Driven_Development)|
 |`WM3_Twitter_Model_Services_Views`| Proyecto: Twitter | 3, 4, 5 |[Soy el repo](https://github.com/dev-LuisSM/WM3_Twitter_Model_Services_Views)|
 |`WM3_ExpressJs`| Primera práctica de ExpressJs |6|[Soy el repo](https://github.com/dev-LuisSM/WM3_Express_Js)|
-|`---`| --- |---|[Aún nada por aquí]()|
+|`WM3_ExpressJs_Api`| Primer API creada con Express JS |7|[Soy el repo](https://github.com/dev-LuisSM/WM3_expressjs_api)|
